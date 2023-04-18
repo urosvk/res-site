@@ -1,0 +1,23 @@
+[
+    {
+        "names": "R. Gupta, U.V. Kalabić, A.M. Bloch, I.V. Kolmanovsky",
+        "title": "Solution to the HJB equation for LQR-type problems on compact connected Lie groups",
+        "journal_title": "Automatica",
+        "volume": "95",
+        "page_begin": "525",
+        "page_end": "528",
+        "date": "Sep 2018",
+        "doi": "doi.org/10.1016/j.automatica.2017.11.013"
+    },
+    {
+        "names": "Q. Li, U.V. Kalabić, I.V. Kolmanovsky",
+        "title": "Fast reference governors for second-order linear systems with constraints and an input time-delay",
+        "journal_title": "Automatica",
+        "volume": "50",
+        "number": "2",
+        "page_begin": "641",
+        "page_end": "645",
+        "date": "Feb 2014",
+        "doi": "doi.org/10.1016/j.automatica.2013.11.007"
+    }
+]

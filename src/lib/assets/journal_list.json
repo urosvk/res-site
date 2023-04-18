@@ -1,0 +1,135 @@
+[
+    {
+        "names": "U.V. Kalabić, J. Panda, A. Weiss, M. Chiu",
+        "title": "Trustless satellite location reporting",
+        "journal_title": "J. Aerospace Information Systems",
+        "notes": "submitted"
+    },
+    {
+        "names": "M. Chiu, J. Panda, A. Goldsmith, U.V. Kalabić",
+        "title": "Verifiable manufacturing using blockchain",
+        "journal_title": "IEEE Trans. Industrial Informatics",
+        "notes": "submitted"
+    },
+    {
+        "names": "K. Chen, K. Zhang, Z. Li, Y. Wang, K. Wu, U.V. Kalabić",
+        "title": "Model predictive control for quasi-linear parameter varying systems: Case study on automotive engine control",
+        "journal_title": "J. Dynamic Systems, Measurement and Control",
+        "volume": "144",
+        "number": "6:061005",
+        "date": "Jun 2022",
+        "doi": "doi.org/10.1115/1.4053887"
+    },
+    {
+        "names": "U.V. Kalabić, I.V. Kolmanovsky",
+        "title": "A constraint-separation principle in model predictive control",
+        "journal_title": "Automatica",
+        "volume": "121",
+        "number": "109190",
+        "date": "Nov 2020",
+        "doi": "doi.org/10.1016/j.automatica.2020.109190"
+    },
+    {
+        "names": "U.V. Kalabić, N.I. Li, C. Vermillion, I.V. Kolmanovsky",
+        "title": "Reference governors for chance-constrained systems",
+        "journal_title": "Automatica",
+        "volume": "109",
+        "number": "108500",
+        "date": "Nov 2019",
+        "doi": "doi.org/10.1016/j.automatica.2019.108500"
+    },
+    {
+        "names": "S. Di Cairano, A. Goldsmith, U.V. Kalabić, S.A. Bortoff",
+        "title": "Cascaded reference governor-MPC for motion control of two-stage manufacturing machines",
+        "journal_title": "IEEE Trans. Control Systems Technology",
+        "volume": "27",
+        "number": "5",
+        "page_begin": "2030",
+        "page_end": "2044",
+        "date": "Sep 2019",
+        "doi": "doi.org/10.1109/TCST.2018.2847627"
+    },
+    {
+        "names": "C. Lin, Y. Wang, G. Kolesov, U. Kalabić",
+        "title": "Application of Pontryagin's minimum principle to Grover's quantum search problem",
+        "journal_title": "Physical Review A",
+        "volume": "100",
+        "number": "022327",
+        "date": "Aug 2019",
+        "doi": "doi.org/10.1103/PhysRevA.100.022327"
+    },
+    {
+        "names": "A. Weiss, U.V. Kalabić, S. Di Cairano",
+        "title": "Station keeping and momentum management of low-thrust satellites using MPC",
+        "journal_title": "Aerospace Science and Technology",
+        "volume": "76",
+        "page_begin": "229",
+        "page_end": "241",
+        "date": "May 2018",
+        "doi": "doi.org/10.1016/j.ast.2018.02.014"
+    },
+    {
+        "names": "Z. Li, I.V. Kolmanovsky, U.V. Kalabić, E.M. Atkins, J. Lu, D.P. Filev",
+        "title": "Optimal state estimation for systems driven by jump-diffusion process with application to road anomaly detection",
+        "journal_title": "IEEE Trans. Control Systems Technology",
+        "volume": "25",
+        "number": "5",
+        "page_begin": "1634",
+        "page_end": "1643",
+        "date": "Sep 2017",
+        "doi": "doi.org/10.1109/TCST.2016.2620062"
+    },
+    {
+        "names": "D.Y. Lee, R. Gupta, U.V. Kalabić, S. Di Cairano, A.M. Bloch, J.W. Cutler, I.V. Kolmanovsky",
+        "title": "Geometric mechanics based nonlinear model predictive spacecraft attitude control with reaction wheels",
+        "journal_title": "J. Guidance, Control, and Dynamics",
+        "volume": "40",
+        "number": "2",
+        "page_begin": "309",
+        "page_end": "319",
+        "date": "Feb 2017",
+        "doi": "doi.org/10.2514/1.G001923"
+    },
+    {
+        "names": "U.V. Kalabić, R. Gupta, S. Di Cairano, A.M. Bloch, I.V. Kolmanovsky",
+        "title": "MPC on manifolds with an application to the control of spacecraft attitude on SO(3)",
+        "journal_title": "Automatica",
+        "volume": "76",
+        "page_begin": "293",
+        "page_end": "300",
+        "date": "Feb 2017",
+        "doi": "doi.org/10.1016/j.automatica.2016.10.022"
+    },
+    {
+        "names": "U.V. Kalabić, J.H. Buckland, S.L. Cooper, S.K. Wait, I.V. Kolmanovsky",
+        "title": "Reference governors for enforcing compressor surge constraints",
+        "journal_title": "IEEE Trans. Control Systems Technology",
+        "volume": "24",
+        "number": "5",
+        "page_begin": "1729",
+        "page_end": "1739",
+        "date": "Sep 2016",
+        "doi": "doi.org/10.1109/TCST.2015.2510334"
+    },
+    {
+        "names": "S. Di Cairano, U.V. Kalabić, I.V. Kolmanovsky",
+        "title": "Reference governor for network control systems subject to variable time-delay",
+        "journal_title": "Automatica",
+        "volume": "62",
+        "page_begin": "77",
+        "page_end": "86",
+        "date": "Dec 2015",
+        "doi": "doi.org/10.1016/j.automatica.2015.09.006"
+    },
+    {
+        "names": "U.V. Kalabić, I.V. Kolmanovsky, E.G. Gilbert",
+        "title": "Reduced order extended command governor",
+        "journal_title": "Automatica",
+        "volume": "50",
+        "number": "5",
+        "page_begin": "1466",
+        "page_end": "1472",
+        "date": "May 2014",
+        "doi": "doi.org/10.1016/j.automatica.2014.03.012"
+    }
+]

@@ -1,0 +1,478 @@
+[
+    {
+        "names": "U. Kalabić, M. Chiu, S. Nabi, S. Mitts, J. Norell, B. Telenta, Ž. Radonjić",
+        "title": "Distributed weather sensing incentivization",
+        "conf_title": "EMS Annual Meeting",
+        "address": "Bonn",
+        "date": "Sep 2022",
+	"number": "EMS2022-553",
+        "notes": "poster, non-refereed",
+        "doi": "doi.org/10.5194/EMS2022-553"
+    },
+    {
+        "names": "P. Elango, S. Di Cairano, U. Kalabić, A. Weiss",
+        "title": "Local eigenmotion control for near rectilinear halo orbits",
+        "conf_title": "American Control Conf.",
+        "address": "Atlanta",
+        "date": "Jun 2022",
+	"page_begin": "1822",
+	"page_end": "1827",
+	"doi": "doi.org/10.23919/ACC53348.2022.9867672",
+        "notes": "invited"
+    },
+    {
+        "names": "D. Aguilar Marsillach, S. Di Cairano, U. Kalabić, A. Weiss",
+        "title": "Fail-safe spacecraft rendezvous on near-rectilinear halo orbits",
+        "conf_title": "American Control Conf.",
+        "address": "New Orleans",
+        "date": "May 2021",
+	"page_begin": "2980",
+	"page_end": "2985",
+        "doi": "doi.org/10.23919/ACC50511.2021.9483328"
+    },
+    {
+        "names": "M. Chiu, A. Goldsmith, U. Kalabić",
+        "title": "Blockchain for embedded system accountability",
+        "conf_title": "IEEE Int. Conf. Blockchain and Cryptocurrency",
+        "address": "Sydney",
+        "date": "May 2021",
+        "notes": "short",
+        "doi": "doi.org/10.1109/ICBC51069.2021.9461143"
+    },
+    {
+        "names": "U. Kalabić, A. Weiss, M. Chiu",
+        "title": "Orbit verification of small sat constellations",
+        "conf_title": "IEEE Int. Conf. Blockchain and Cryptocurrency",
+        "address": "Sydney",
+        "date": "May 2021",
+        "notes": "short",
+        "doi": "doi.org/10.1109/ICBC51069.2021.9461065"
+    },
+    {
+        "names": "U. Kalabić, A. Weiss, M. Chiu",
+        "title": "Distributed small sat location verification",
+        "conf_title": "Integrated Communications Navigation and Surveillance Conf.",
+        "address": "Dulles, Virginia",
+        "date": "Apr 2021",
+        "notes": "non-refereed",
+        "doi": "doi.org/10.1109/ICNS52807.2021.9441603"
+    },
+    {
+        "names": "M. Chiu, U. Kalabić",
+        "title": "Debt representation in UTXO blockchains",
+        "conf_title": "Int. Conf. Financial Cryptography and Data Security",
+        "address": "Grenada",
+        "date": "Mar 2021",
+        "page_begin": "57",
+        "page_end": "64",
+        "notes": "short",
+        "doi": "doi.org/10.1007/978-3-662-64331-0_3"
+    },
+    {
+        "names": "U. Kalabić, P. Grover, S. Aeron",
+        "title": "Optimization-based incentivization and control scheme for autonomous traffic",
+        "conf_title": "IEEE Intelligent Vehicles Symp.",
+        "address": "Las Vegas",
+        "date": "Oct 2020",
+        "page_begin": "1173",
+        "page_end": "1178",
+        "doi": "doi.org/10.1109/IV47402.2020.9304641"
+    },
+    {
+        "names": "U. Kalabić, M. Chiu",
+        "title": "Cap-and-trade scheme for ridesharing",
+        "conf_title": "IEEE Intelligent Transportation Systems Conf.",
+        "address": "Rhodes, Greece",
+        "date": " Sep 2020",
+        "page_begin": "3182",
+        "page_end": "3187",
+        "notes": "special",
+        "doi": "doi.org/10.1109/ITSC45102.2020.9294268"
+    },
+    {
+        "names": "V. Muralidharan, A. Weiss, U. Kalabić",
+        "title": "Tracking neighboring quasi-satellite orbits around Phobos",
+        "conf_title": "IFAC World Congress",
+        "address": "Berlin",
+        "date": "Jul 2020",
+        "page_begin": "14906",
+        "page_end": "14911",
+        "doi": "doi.org/10.1016/j.ifacol.2020.12.1952"
+    },
+    {
+        "names": "H. Maske, T. Chu, U. Kalabić",
+        "title": "Control of traffic light timing using decentralized deep reinforcement learning",
+        "conf_title": "IFAC World Congress",
+        "address": "Berlin",
+        "date": "Jul 2020",
+        "page_begin": "14936",
+        "page_end": "14941",
+        "doi": "doi.org/10.1016/j.ifacol.2020.12.1980"
+    },
+    {
+        "names": "V. Muralidharan, A. Weiss, U. Kalabić",
+        "title": "Control strategy for long-horizon station-keeping on near-rectilinear halo orbits",
+        "conf_title": "AIAA SciTech Forum",
+        "address": "Orlando",
+        "date": "Jan 2020",
+	"number": "AIAA 2020-1459",
+        "notes": "non-refereed",
+        "doi": "doi.org/10.2514/6.2020-1459"
+    },
+    {
+        "names": "T. Chu, U. Kalabić",
+        "title": "Model-based deep reinforcement learning for CACC in mixed-autonomy vehicle platoons",
+        "conf_title": "IEEE Conf. Decision and Control",
+        "address": "Nice (Nissa), France",
+        "date": "Dec 2019",
+        "page_begin": "4079",
+        "page_end": "4084",
+        "notes": "invited",
+        "doi": "doi.org/10.1109/CDC40024.2019.9030110"
+    },
+    {
+        "names": "H. Maske, T. Chu, U. Kalabić",
+        "title": "Large-scale traffic control using autonomous vehicles and decentralized deep reinforcement learning",
+        "conf_title": "IEEE Intelligent Transportation Systems Conf.",
+        "address": "Auckland",
+        "date": "Oct 2019",
+        "page_begin": "3816",
+        "page_end": "3821",
+        "notes": "special",
+        "doi": "doi.org/10.1109/ITSC.2019.8916776"
+    },
+    {
+        "names": "U. Kalabić, A. Chakrabarty, R. Quirynen, S. Di Cairano",
+        "title": "Learning autonomous vehicle passengers' preferred driving styles using g-g plots and haptic feedback",
+        "conf_title": "IEEE Intelligent Transportation Systems Conf.",
+        "address": "Auckland",
+        "date": "Oct 2019",
+        "page_begin": "4012",
+        "page_end": "4017",
+        "notes": "special",
+        "doi": "doi.org/10.1109/ITSC.2019.8917328"
+    },
+    {
+        "names": "U. Kalabić, S. Di Cairano",
+        "title": "Smooth transitions in shared control using constraint-admissible sets",
+        "conf_title": "IEEE Conf. Control Technology and Applications",
+        "address": "Hong Kong",
+        "date": "Aug 2019",
+        "page_begin": "21",
+        "page_end": "26",
+        "doi": "doi.org/10.1109/CCTA.2019.8920574"
+    },
+    {
+        "names": "Z. Li, T. Chu, U. Kalabić",
+        "title": "Dynamics-enabled safe deep reinforcement learning: Case study on active suspension control",
+        "conf_title": "IEEE Conf. Control Technology and Applications",
+        "address": "Hong Kong",
+        "date": "Aug 2019",
+        "page_begin": "585",
+        "page_end": "591",
+        "doi": "doi.org/10.1109/CCTA.2019.8920696"
+    },
+    {
+        "names": "G. Nilsson, P. Grover, U. Kalabić",
+        "title": "Assignment and control of two-tiered vehicle traffic",
+        "conf_title": "IEEE Conf. Decision and Control",
+        "address": "Miami Beach, Florida",
+        "date": "Dec 2018",
+        "page_begin": "1023",
+        "page_end": "1028",
+        "doi": "doi.org/10.1109/CDC.2018.8619411"
+    },
+    {
+        "names": "U. Kalabić, A. Weiss, P. Grover",
+        "title": "Low-thrust GTO-to-GEO trajectory optimization and tracking",
+        "conf_title": "AAS/AIAA Astrodynamics Specialist Conf.",
+        "address": "Snowbird, Utah",
+        "date": "Aug 2018",
+	"number": "AAS 18-398",
+        "notes": "non-refereed",
+        "doi": "univelt.com/book=7092"
+    },
+    {
+        "names": "Z. Li, U. Kalabić, T. Chu",
+        "title": "Safe reinforcement learning: Learning with supervision from an admissible set",
+        "conf_title": "American Control Conf.",
+        "address": "Milwaukee",
+        "date": "Jun 2018",
+        "page_begin": "6390",
+        "page_end": "6395",
+        "doi": "doi.org/10.23919/ACC.2018.8430770"
+    },
+    {
+        "names": "U. Kalabić, S. Di Cairano",
+        "title": "Inner-loop reference governor design for application to human-in-the-loop control",
+        "conf_title": "European Control Conf.",
+        "address": "Limassol (Lemesos), Cyprus",
+        "date": "Jun 2018",
+        "page_begin": "1021",
+        "page_end": "1026",
+        "doi": "doi.org/10.23919/ECC.2018.8550423"
+    },
+    {
+        "names": "U. Kalabić, K. Berntorp, S. Di Cairano",
+        "title": "Constraint-enforcing controller for both autonomous and assisted steering",
+        "conf_title": "IEEE Conf. Control Technology and Applications",
+        "address": "Kohala Coast, Hawaii",
+        "date": "Aug 2017",
+        "page_begin": "2208",
+        "page_end": "2213",
+        "notes": "invited",
+        "doi": "doi.org/10.1109/CCTA.2017.8062779"
+    },
+    {
+        "names": "U. Halder, U. Kalabić",
+        "title": "Time-optimal solution for a unicycle path on SE(2) with a penalty on curvature",
+        "conf_title": "IFAC World Congress",
+        "address": "Toulouse (Tolosa)",
+        "date": "Jul 2017",
+        "page_begin": "6494",
+        "page_end": "6499",
+        "doi": "doi.org/10.1016/j.ifacol.2017.08.916"
+    },
+    {
+        "names": "U. Kalabić, C. Vermillion, I. Kolmanovsky",
+        "title": "Constraint enforcement for a lighter-than-air wind-energy system: An application of reference governors with chance constraints",
+        "conf_title": "IFAC World Congress",
+        "address": "Toulouse (Tolosa)",
+        "date": "Jul 2017",
+        "page_begin": "13800",
+        "page_end": "13805",
+        "notes": "invited",
+        "doi": "doi.org/10.1016/j.ifacol.2017.08.1962"
+    },
+    {
+        "names": "U. Kalabić, A. Goldsmith, S. Di Cairano",
+        "title": "Extended command governors for constraint enforcement in dual-stage processing machines",
+        "conf_title": "American Control Conf.",
+        "address": "Seattle",
+        "date": "May 2017",
+        "page_begin": "2195",
+        "page_end": "2200",
+        "doi": "doi.org/10.23919/ACC.2017.7963278"
+    },
+    {
+        "names": "S. Di Cairano, U.V. Kalabić, K. Berntorp",
+        "title": "Vehicle tracking control on piecewise-clothoidal trajectories by MPC with guaranteed error bounds",
+        "conf_title": "IEEE Conf. Decision and Control",
+        "address": "Las Vegas",
+        "date": "Dec 2016",
+        "page_begin": "709",
+        "page_end": "714",
+        "notes": "invited",
+        "doi": "doi.org/10.1109/CDC.2016.7798351"
+    },
+    {
+        "names": "U. Kalabić, R. Gupta, S. Di Cairano, A. Bloch, I. Kolmanovsky",
+        "title": "MPC on manifolds with an application to SE(3)",
+        "conf_title": "American Control Conf.",
+        "address": "Boston",
+        "date": "Jul 2016",
+        "page_begin": "7",
+        "page_end": "12",
+        "notes": "invited",
+        "doi": "doi.org/10.1109/ACC.2016.7524883"
+    },
+    {
+        "names": "Z. Li, U.V. Kalabić, I.V. Kolmanovsky, E.M. Atkins, J. Lu, D.P. Filev",
+        "title": "Simultaneous road profile estimation and anomaly detection with an input observer and a jump diffusion process estimator",
+        "conf_title": "American Control Conf.",
+        "address": "Boston",
+        "date": "Jul 2016",
+        "page_begin": "1693",
+        "page_end": "1698",
+        "doi": "doi.org/10.1109/ACC.2016.7525160"
+    },
+    {
+        "names": "D.Y. Lee, R. Gupta, U.V. Kalabić, S. Di Cairano, A.M. Bloch, J.W. Cutler, I.V. Kolmanovsky",
+        "title": "Constrained attitude maneuvering of a spacecraft with reaction wheel assembly by nonlinear model predictive control",
+        "conf_title": "American Control Conf.",
+        "address": "Boston",
+        "date": "Jul 2016",
+        "page_begin": "4960",
+        "page_end": "4965",
+        "doi": "doi.org/10.1109/ACC.2016.7526139"
+    },
+    {
+        "names": "U. Kalabić, I. Kolmanovsky",
+        "title": "Inner-loop reference governors: Placing reference governors inside the loop by using passivity",
+        "conf_title": "IEEE Conf. Decision and Control",
+        "address": "Osaka",
+        "date": "Dec 2015",
+        "page_begin": "3019",
+        "page_end": "3025",
+        "doi": "doi.org/10.1109/CDC.2015.7402592"
+    },
+    {
+        "names": "A. Weiss, U. Kalabić, S. Di Cairano",
+        "title": "Model predictive control for simultaneous station keeping and momentum management of low-thrust spacecraft",
+        "conf_title": "American Control Conf.",
+        "address": "Chicago",
+        "date": "Jul 2015",
+        "page_begin": "2305",
+        "page_end": "2310",
+        "doi": "doi.org/10.1109/ACC.2015.7171076"
+    },
+    {
+        "names": "R. Gupta, U.V. Kalabić, A.M. Bloch, I.V. Kolmanovsky",
+        "title": "Constrained spacecraft attitude control on SO(3) using fast nonlinear model predictive control",
+        "conf_title": "American Control Conf.",
+        "address": "Chicago",
+        "date": "Jul 2015",
+        "page_begin": "2980",
+        "page_end": "2986",
+        "doi": "doi.org/10.1109/ACC.2015.7171188"
+    },
+    {
+        "names": "U. Kalabić, A. Weiss, S. Di Cairano, I. Kolmanovsky",
+        "title": "Station-keeping and momentum-management on halo orbits around L2: Linear-quadratic feedback and model predictive control approaches",
+        "conf_title": "AAS/AIAA Space Flight Mechanics Meeting",
+        "address": "Williamsburg, Virginia",
+        "date": "Jan 2015",
+	"number": "AAS 15-307",
+        "notes": "non-refereed",
+        "doi": "univelt.com/book=5231"
+    },
+    {
+        "names": "U. Kalabić, I. Kolmanovsky",
+        "title": "Reference and command governors for systems with slowly time-varying references and time-dependent constraints",
+        "conf_title": "IEEE Conf. Decision and Control",
+        "address": "Los Angeles",
+        "date": "Dec 2014",
+        "page_begin": "6701",
+        "page_end": "6706",
+        "doi": "doi.org/10.1109/CDC.2014.7040441"
+    },
+    {
+        "names": "T. Polóni, U. Kalabić, K. McDonough, I. Kolmanovsky",
+        "title": "Disturbance canceling control based on simple input observers with constraint enforcement for aerospace applications",
+        "conf_title": "IEEE Int. Conf. Control Applications",
+        "address": "Antibes (Antibol), France",
+	"date": "Oct 2014",
+	"page_begin": "158",
+	"page_end": "165",
+	"doi": "doi.org/10.1109/CCA.2014.6981345"
+    },
+    {
+        "names": "Q. Li, U. Kalabić, I. Kolmanovsky",
+        "title": "Predictor-based reference governor for second-order linear constrained systems operated over a communication network",
+        "conf_title": "World Congress Intelligent Control and Automation",
+        "address": "Shenyang (Mukden)",
+        "date": "Jun 2014",
+        "page_begin": "1700",
+        "page_end": "1704",
+        "doi": "doi.org/10.1109/WCICA.2014.7052976"
+    },
+    {
+        "names": "U. Kalabić, R. Gupta, S. Di Cairano, A. Bloch, I. Kolmanovsky",
+        "title": "Constrained spacecraft attitude control on SO(3) using reference governors and nonlinear model predictive control",
+        "conf_title": "American Control Conf.",
+        "address": "Portland, Oregon",
+        "date": "Jun 2014",
+        "page_begin": "5586",
+        "page_end": "5593",
+        "doi": "doi.org/10.1109/ACC.2014.6858865"
+    },
+    {
+        "names": "U. Kalabić, I. Kolmanovsky",
+        "title": "Decentralized constraint enforcement using reference governors",
+        "conf_title": "IEEE Conf. Decision and Control",
+        "address": "Florence",
+        "date": "Dec 2013",
+	"page_begin": "6415",
+	"page_end": "6421",
+        "doi": "doi.org/10.1109/CDC.2013.6760904"
+    },
+    {
+        "names": "U. Kalabić, I. Kolmanovsky, J. Buckland",
+        "title": "Multi-input observer for estimation of compressor flow",
+        "conf_title": "ASME Dynamic Systems and Control Conf.",
+        "address": "Palo Alto, California",
+        "date": "Oct 2013",
+	"number": "DSCC2013-3731",
+        "doi": "doi.org/10.1115/DSCC2013-3731"
+    },
+    {
+        "names": "U. Kalabić, C. Vermillion, I. Kolmanovsky",
+        "title": "Reference governor design for computationally efficient attitude and tether tension constraint enforcement on a lighter-than-air wind energy system",
+        "conf_title": "European Control Conf.",
+        "address": "Zurich",
+        "date": "Jul 2013",
+        "page_begin": "1004",
+        "page_end": "1010",
+        "notes": "invited",
+        "doi": "doi.org/10.23919/ECC.2013.6669490"
+    },
+    {
+        "names": "U. Kalabić, Y. Chitalia, J. Buckland, I. Kolmanovsky",
+        "title": "Prioritization schemes for reference and command governors",
+        "conf_title": "European Control Conf.",
+        "address": "Zurich",
+        "date": "Jul 2013",
+        "page_begin": "2734",
+        "page_end": "2739",
+        "doi": "doi.org/10.23919/ECC.2013.6669212"
+    },
+    {
+        "names": "M.J. Dillsaver, U.V. Kalabić, I.V. Kolmanovsky, C.E.S. Cesnik",
+        "title": "Constrained control of very flexible aircraft using reference and extended command governors",
+        "conf_title": "American Control Conf.",
+        "address": "Washington, D",
+        "date": "Jun 2013",
+        "page_begin": "1608",
+        "page_end": "1613",
+        "doi": "doi.org/10.1109/ACC.2013.6580065"
+    },
+    {
+        "names": "U. Kalabić, I. Kolmanovsky, J. Buckland, E. Gilbert",
+        "title": "Reduced order reference governor",
+        "conf_title": "IEEE Conf. Decision and Control",
+        "address": "Wailea, Hawaii",
+        "date": "Dec 2012",
+        "page_begin": "3245",
+        "page_end": "3251",
+        "doi": "doi.org/10.1109/CDC.2012.6426024"
+    },
+    {
+        "names": "I. Kolmanovsky, U. Kalabić, E. Gilbert",
+        "title": "Developments in constrained control using reference governors",
+        "conf_title": "IFAC Conf. Nonlinear Model Predictive Control",
+        "address": "Noordwijkerhout (Norwichwood), Netherlands",
+        "date": "Aug 2012",
+        "page_begin": "282",
+        "page_end": "290",
+        "notes": "semi-plenary",
+        "doi": "doi.org/10.3182/20120823-5-NL-3013.00042"
+    },
+    {
+        "names": "U. Kalabić, I. Kolmanovsky, E. Gilbert",
+        "title": "Reference governors for linear systems with nonlinear constraints",
+        "conf_title": "IEEE Conf. Decision and Control",
+        "address": "Orlando",
+        "date": "Dec 2011",
+        "page_begin": "2680",
+        "page_end": "2686",
+        "doi": "doi.org/10.1109/CDC.2011.6161238"
+    },
+    {
+        "names": "U. Kalabić, I. Kolmanovsky, J. Buckland, E. Gilbert",
+        "title": "Reference and extended command governors for control of turbocharged gasoline engines based on linear models",
+        "conf_title": "IEEE Int. Conf. Control Applications",
+        "address": "Denver",
+        "date": "Sep 2011",
+        "page_begin": "319",
+        "page_end": "325",
+        "doi": "doi.org/10.1109/CCA.2011.6044457"
+    },
+    {
+        "names": "U. Kalabić, H.H.T. Liu",
+        "title": "Adaptive synchronized tracking control of multiple 3-DOF helicopters",
+        "conf_title": "Undergraduate Engineering Research Day",
+        "address": "University of Toronto",
+        "date": "Aug 2009",
+        "notes": "poster, non-refereed"
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "names": "T.-C. M. Chiu, A. Goldsmith, U. Kalabic",
+        "title": "Systems and methods for blockchain-based industrial automation",
+        "patent_appl": "17/234,041",
+        "filed": "Jul 21, 2022"
+    },
+    {
+        "names": "A. Weiss, P. Elango, S. Di Cairano, U. Kalabic",
+        "title": "Eigenmotion control for near rectilinear halo orbits",
+        "patent_appl": "17/234,041",
+        "filed": "Jun 27, 2022"
+    },
+    {
+        "names": "T.-C. M. Chiu, U. Kalabic, A.M. Goldsmith",
+        "title": "Blockchain-based accountable distributed computing system",
+        "patent_appl": "17/234,041",
+        "filed": "Apr 19, 2021"
+    },
+    {
+        "names": "U. Kalabic, T.-C. M. Chiu, A. Weiss",
+        "title": "System for distributed verification of satellite position",
+        "patent_appl": "17/233,785",
+        "filed": "Apr 19, 2021"
+    },
+    {
+        "names": "U. Kalabic, T.-C. M. Chiu",
+        "title": "System and method for measuring a social cost of ridesharing service",
+        "patent_appl": "17/022,154",
+        "filed": "Sep 16, 2020"
+    },
+    {
+        "names": "A. Weiss, S. Di Cairano, D. Aguilar Marsillach, U. Kalabic",
+        "title": "Abort-safe vehicle rendezvous in case of partial control failure",
+        "patent_appl": "16/914,386",
+        "filed": "Jun 28, 2020"
+    },
+    {
+        "names": "A. Weiss, D. Aguilar Marsillach, S. Di Cairano, U. Kalabic",
+        "title": "Abort-safe vehicle rendezvous in case of total control failure",
+        "patent_appl": "16/914,383",
+        "filed": "Jun 28, 2020"
+    },
+    {
+        "names": "U. Kalabic, P. Grover, S. Aeron",
+        "title": "System and method for distribution-based traffic control",
+        "patent_appl": "16/889,224",
+        "filed": "Jun 1, 2020"
+    },
+    {
+        "names": "U. Kalabic, T.-C. M. Chiu",
+        "title": "Debt resource management in a distributed ledger system",
+        "patent_appl": "16/882,845",
+        "filed": "May 26, 2020"
+    },
+    {
+        "names": "U. Kalabic, V. Muralidharan, A. Weiss",
+        "title": "Tracking neighboring quasi-satellite orbits around Mars's moon Phobos",
+        "patent_appl": "16/734,055",
+        "filed": "Jan 3, 2020"
+    },
+    {
+        "names": "U. Kalabic, H. Maske, T. Chu",
+        "title": "Attention-based control of vehicular traffic",
+        "patent_appl": "16/659,933",
+        "filed": "Oct 22, 2019"
+    },
+    {
+        "names": "U. Kalabic, T. Chu",
+        "title": "Direct and indirect control of mixed-automata vehicle platoon",
+        "patent": "11,209,834",
+        "issued": "Dec 28, 2021",
+        "filed": "Oct 17, 2019"
+    },
+    {
+        "names": "U. Kalabic, A. Chakrabarty, S. Di Cairano",
+        "title": "Control of autonomous vehicles adaptive to user driving preferences",
+        "patent_appl": "16/599,636",
+        "filed": "Oct 11, 2019"
+    },
+    {
+        "names": "U. Kalabic, Z. Li, A. Goldsmith",
+        "title": "Constraint adaptor for reinforcement learning control",
+        "patent_appl": "16/542,299",
+        "filed": "Aug 16, 2019"
+    },
+    {
+        "names": "U. Kalabic, R. Quirynen, S. Di Cairano",
+        "title": "Method and system for determining driver intention in semi-autonomous vehicle steering",
+        "patent": "11,167,795",
+        "issued": "Nov 11, 2021",
+        "filed": "Mar 27, 2019"
+    },
+    {
+        "names": "P. Grover, U. Kalabic, A. Weiss",
+        "title": "System and method of tracking a spacecraft trajectory for orbital transfer",
+        "patent_appl": "16/299,300",
+        "filed": "Mar 12, 2019"
+    },
+    {
+        "names": "U. Kalabic, N.G. Nilsson, P. Grover",
+        "title": "System and method for asymmetric traffic control",
+        "patent": "10,922,966",
+        "issued": "Feb 16, 2021",
+        "filed": "Oct 31, 2018"
+    },
+    {
+        "names": "U. Kalabic, S. Di Cairano",
+        "title": "Methods and system for balanced feasible and stable control",
+        "patent": "10,807,638",
+        "issued": "Oct 20, 2020",
+        "filed": "Mar 29, 2018"
+    },
+    {
+        "names": "A. Goldsmith, S. Di Cairano, U. Kalabic",
+        "title": "Receding horizon reference governor",
+        "patent": "10,860,002",
+        "issued": "Dec 8, 2020",
+        "filed": "Mar 19, 2018"
+    },
+    {
+        "names": "U. Kalabic, K. Berntorp, S. Di Cairano",
+        "title": "Systems and methods for intention-based steering of vehicle",
+        "patent": "10,589,784",
+        "issued": "Mar 17, 2020",
+        "filed": "Aug 21, 2017"
+    },
+    {
+        "names": "U. Kalabic, U. Halder",
+        "title": "Vehicle motion control system and method",
+        "patent": "10,409,283",
+        "issued": "Sep 10, 2019",
+        "filed": "Mar 31, 2017"
+    },
+    {
+        "names": "U. Kalabic, A. Goldsmith, S. Di Cairano",
+        "title": "System and method for controlling redundant actuators with different dynamics",
+        "patent": "10,324,446",
+        "issued": "Jun 18, 2019",
+        "filed": "Mar 2, 2017"
+    },
+    {
+        "names": "A. Weiss, S. Di Cairano, U. Kalabic",
+        "title": "Model predictive control of spacecraft",
+        "patent": "9,874,879",
+        "issued": "Jan 23, 2018",
+        "filed": "Jan 31, 2017"
+    },
+    {
+        "names": "A. Goldsmith, S. Di Cairano, U. Kalabic",
+        "title": "Operation aware control of processing machine with redundant actuators",
+        "patent": "10,216,168",
+        "issued": "Feb 26, 2019",
+        "filed": "Dec 13, 2016"
+    },
+    {
+        "names": "S. Di Cairano, U. Kalabic, K. Berntorp",
+        "title": "System and method for controlling motion of vehicle",
+        "patent": "9,915,948",
+        "issued": "Mar 13, 2018",
+        "filed": "Jul 14, 2016"
+    },
+    {
+        "names": "A. Weiss, S. Di Cairano, U. Kalabic",
+        "title": "Model predictive control of spacecraft",
+        "patent": "9,764,858",
+        "issued": "Sep 19, 2017",
+        "filed": "Jan 7, 2015"
+    },
+    {
+        "names": "A.N. Banker, J.H. Buckland, J.N. Ulrey, U.V. Kalabic, M.J. Gerhart, T.J. Pallet, I. Kolmanovsky, S.K. Wait",
+        "title": "Methods and systems for torque control",
+        "patent": "9,174,637",
+        "issued": "Nov 3, 2015",
+        "filed": "Aug 13, 2013"
+    }
+]
