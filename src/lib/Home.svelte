@@ -10,7 +10,7 @@
 Uroš Kalabić
 </h1>
 
-<img alt="HEADSHOT" src={headshotURL} height="180"/>
+<img alt="HEADSHOT" src={headshotURL} onerror='this.style.display = "none"' height="180"/>
 
 <p>
   This site is dedicated to my research. A bit about me:

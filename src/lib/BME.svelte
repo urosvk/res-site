@@ -9,7 +9,7 @@
 
 </script>
 
-<p><img alt="BANNER" src={banner} width={width}>
+<p><img alt="BANNER" src={banner} onerror='this.style.display = "none"' width={width}>
 </p>
 
 <h1>
