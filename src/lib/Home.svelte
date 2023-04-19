@@ -2,7 +2,7 @@
   import socials from "$lib/assets/socials.json"
   let social = socials[0]
 
-  let headshot_link = "https://lh3.googleusercontent.com/drive-viewer/AAOQEOSX0VBHT_kpAoYCR7ziAkB2EZyAimpkB6-9MvaQGVRAj5KdEFfRh-NteDK7vGSR_qNLvBHIpnNwC_tNxZfZeexvVBS2_A=s1600"; 
+  const headshotURL = "https://lh3.googleusercontent.com/drive-viewer/AAOQEOSX0VBHT_kpAoYCR7ziAkB2EZyAimpkB6-9MvaQGVRAj5KdEFfRh-NteDK7vGSR_qNLvBHIpnNwC_tNxZfZeexvVBS2_A=s1600"; 
 
 </script>
 
@@ -10,29 +10,29 @@
 Uroš Kalabić
 </h1>
 
-<img alt="headshot" src={headshot_link} height="180"/>
+<img alt="HEADSHOT" src={headshotURL} height="180"/>
 
 <p>
-  This site is dedicated to my research.
+  This site is dedicated to my research. A bit about me:
 </p>
 
 <p>
-  A bit about me: I obtained a BASc in engineering science in 2010 from the University of Toronto, 
+  I obtained a BASc in engineering science in 2010 from the University of Toronto, 
   specializing in aerospace engineering. I then went to the University of Michigan, where I obtained
   an MEng in aerospace engineering in 2011, an MS in pure mathematics in 2014, and a PhD in aerospace 
-  engineering in 2015 under my adviser, Ilya Kolmanovsky.
+  engineering in 2015 under my adviser, <a href={socials.ilya} target="_blank" title="Ilya Kolmanovsky">Ilya Kolmanovsky</a>.
 </p>
 <p>
-  My career has been varied and taken me to different places and I have gotten to explore different themes.
+  My career has been varied and taken me to different places as I have come to explore different themes.
   I started off as an aerospace engineer specializing in constrained control and control of aerospace and
   automotive systems. I have worked substantially on control of automotive engines, dynamic control of both
-  automotive and space vehicles, control of transportation, and have made theoretical contributions to the
+  automotive and space vehicles, control of transportation, and made significant theoretical contributions to the
   control of systems subject to constraints.
 </p>
 <p>
   At some point, I became interested in the emerging technology of blockchain and began to explore applications 
   of the theory of dynamic games to tokenomics. Much of this research has not yet seen the light of day because at
-  some point I retired from the ivory tower and began to engage in the messy world of entrepreneurship.
+  some point I left the ivory tower and began to engage in the messy world of entrepreneurship.
 </p>
 
 <p>
