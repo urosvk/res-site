@@ -55,8 +55,6 @@
   shed light on the mathematics and gamesmanship behind traditional financial systems.
 </p>
 <p>
-  Henceforth this page will act as a place where I will present my findings rearding burn-and-mint. My hope
-  is that we as a field can break into the mainstream, with, for example, representation at conferences like 
-  Economics and Computation and Financial Cryptography. 
+  Henceforth this page will act as a place where I will present my findings rearding burn-and-mint.
 </p>
 
